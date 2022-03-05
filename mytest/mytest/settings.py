@@ -110,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 #  中文 zh-Hans  en-us 英文
 LANGUAGE_CODE = 'en-us'
 
-# 时区
+# 时区,dong
 TIME_ZONE = 'UTC'
 
 USE_I18N = True
